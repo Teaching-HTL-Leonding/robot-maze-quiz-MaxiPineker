@@ -1,0 +1,12 @@
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\robot-maze-quiz-MaxiPineker\Maze.Library\bin\Debug\net5.0\Maze.Library.deps.json
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\robot-maze-quiz-MaxiPineker\Maze.Library\bin\Debug\net5.0\Maze.Library.dll
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\robot-maze-quiz-MaxiPineker\Maze.Library\bin\Debug\net5.0\ref\Maze.Library.dll
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\robot-maze-quiz-MaxiPineker\Maze.Library\bin\Debug\net5.0\Maze.Library.pdb
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\robot-maze-quiz-MaxiPineker\Maze.Library\obj\Debug\net5.0\Maze.Library.csprojAssemblyReference.cache
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\robot-maze-quiz-MaxiPineker\Maze.Library\obj\Debug\net5.0\Maze.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\robot-maze-quiz-MaxiPineker\Maze.Library\obj\Debug\net5.0\Maze.Library.AssemblyInfoInputs.cache
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\robot-maze-quiz-MaxiPineker\Maze.Library\obj\Debug\net5.0\Maze.Library.AssemblyInfo.cs
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\robot-maze-quiz-MaxiPineker\Maze.Library\obj\Debug\net5.0\Maze.Library.csproj.CoreCompileInputs.cache
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\robot-maze-quiz-MaxiPineker\Maze.Library\obj\Debug\net5.0\Maze.Library.dll
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\robot-maze-quiz-MaxiPineker\Maze.Library\obj\Debug\net5.0\ref\Maze.Library.dll
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\robot-maze-quiz-MaxiPineker\Maze.Library\obj\Debug\net5.0\Maze.Library.pdb
